@@ -1,0 +1,83 @@
+
+
+Developing a web based platform for Freight and Logistics and Verifying Authentic shipping agents in africa.
+
+The idea is to develop a platform for connect customers to local freight and logistics companies, and also help these customers 
+have access and visibility to tracking of their products and successful delivery of their products.
+
+This idea came from my recent experience where i had an experience with a shipping agency over the Loss of about
+$30,000.00. 
+The platform will enagage with freight forwarding companies located withing and outside Nigeria to get on the platform.
+These companies will share their processes with us and their corresponding contacts here in Nigeria. while will link them up
+with potential importers of products and services.
+The platform is to help facilitate movement of products from one region of the world to another and also throw a light 
+as to the activities of both the freight forwarding companies/ their agents. The web app will include 
+List on forwarding companies,
+List of agents attached to forwarding companies
+estimated cost for shipping from place of pickup to destination
+customs clearing
+Items allowed to ship and not allow to ship
+shipping options
+and possibly payment to both the freight companies and agents
+
+
+Players in the Industry:
+Multinationals: DHL,UPS, FEDEX, Skynet worldwide, Rowsy International, Redstar, TNT
+
+Local Freight companies
+Okiki courier Services
+Courier Plus
+Best Cargo and Shipping services Limited
+
+One Man Business Logistics
+Meskana
+Gpraise Logistics
+One world Logistics
+Just to mention a few.
+
+There serveral Vertical in the world of logistics. These verticals comprises of the routes 
+We have companies who do USA/CANADA/ EUROPE AND UAE
+some companies do ASIA only.
+Some do the west african Routes.
+There major routes on the Logistics firm.
+Our platform will focus on how to bring all these routes to enable full time visibility and adequate price.
+In the long run we will cover sea and air freight across the world.
+
+
+Product Features.
+1. Platform will have a growing list of forwarders and agents within and outside the country
+2. Shipping calculator based on weight and customs clearinig. This will give you an ontime information as regards what you will pay.
+3. Service review. This feature will enable users rate the services of the agents and forwarders after successful completion of the
+import and clearing process.
+4. Port services and Information: The platform will give up to date information as regards port services and facilities. (Eg, there has been congestion at
+apapa ports due to infrastructure breakdown. Information like this will help importers to know when to and hw to ship their goods)
+we will also have ports that we operate with and agents that have access to such ports.
+5. Flight services and routes. 
+6. Price comparism between all forwarding agents and personnel.
+7. Ranking and search optimization. We would offer boosting plans for agents who wish to come up high in ranking on the platform. This feature will come 
+up later as we would not like to scare them away from onboarding on the platform.
+8. Forwarders Details: This will give the user more information about the forwarder. date of incorporation, pricipal managaers and 
+9. They will have the following data.
+Users who are willing to import , Names addresses, Phone Numbers, email, and maybe age brackets.
+Items are that are being imported, qty of the products, weight of the products. and possibly price or the cost in order to help with customs clearing proceedure.
+with these data we will be able to understand the import patterns of Nigeria.
+10. We can also add payment features. we act as middle men to these forwarders, and have backend discount. plus a commision for every successful transaction
+11. Sign up will be free for all.
+12. Once successful with the Nigerian Model we can move to west africa. and we can then grow intre country import and exports.
+13. Upload of picture to enable the importer have an idea of how the pictures of the package looks like while on transit
+14. Actual weight after the items have been packaged to enable openness from agent and forwarder.
+15. when searching for an agent the mobile version can help you locate an agent/Forwarder registered on the platform closest to you.
+
+
+Project Development:
+We are looking at using PHP/JS to build and develop this platform.
+
+Idea Lead : Musa Harold
+Project Developer: Femi
+
+
+Target Market:
+1. All importers
+2. Small Business owners whose Revenue is below NGN100 Million
+3. Courier Service companies, Agents and forwarders who control a significant market share order than the Big multinational
+4. Coporate organization willing to have visibility to their cargo and shipments.
